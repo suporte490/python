@@ -1,0 +1,15 @@
+#importa as bibliotecas pyautogui e time
+import pyautogui
+import time
+
+#time de 15 segundos
+time.sleep(5)
+
+#captura a posição do mouse
+print(pyautogui.position())
+
+#time de 15 segundos
+time.sleep(5)
+
+#captura a posição do mouse
+print(pyautogui.position())
